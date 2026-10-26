@@ -449,4 +449,4 @@ updateNoclipButton()
 updateNositButton()
 statusLbl.TextColor3 = Color3.fromRGB(200,200,200)
 
-print("✅ HAMID KING V2 LOADED – GUI & CHAT FULLY SYNCED")D")
+print("✅ HAMID KING V2 LOADED – GUI & CHAT FULLY SYNCED")
